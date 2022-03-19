@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDTest", "CICDTest\CICDTest.csproj", "{9571032C-8085-4517-A0FA-2BA4E70CAF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9571032C-8085-4517-A0FA-2BA4E70CAF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9571032C-8085-4517-A0FA-2BA4E70CAF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9571032C-8085-4517-A0FA-2BA4E70CAF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9571032C-8085-4517-A0FA-2BA4E70CAF69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4940F24-9560-4717-802C-FF4AE0CCB21A}
+	EndGlobalSection
+EndGlobal
